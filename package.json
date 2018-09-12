@@ -1,0 +1,25 @@
+{
+  "name": "proxy-4-tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "proxy.js",
+  "dependencies": {
+    "log-timestamp": "0.2.1",
+    "uuid": "3.3.2",
+    "chalk": "2.4.1"
+  },
+  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ehartmann/proxy-4-tests.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ehartmann/proxy-4-tests/issues"
+  },
+  "scripts": {
+    "run": "proxy.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eric Hartmann",
+  "license": "ISC"
+}
